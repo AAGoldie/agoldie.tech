@@ -49,19 +49,20 @@
     "siteUrl": "https://agoldie.tech",
     "sitemapSwitcherAuto": "on",
     "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-WGTC8XEZZ3\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-WGTC8XEZZ3');\n</script>",
-    "favicon": false,
-    "mbrsiteDomain": "b5vypryiqw",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
+    "mbrsiteDomain": "77zdnyggxm",
     "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Andy Goldie - Scotland, UK",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -199,11 +200,11 @@
             }
           },
           "_cid": "sxvODtyja6",
+          "_anchor": "extFooter7-8",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {},
-          "_anchor": "extFooter7-8"
+          "_params": {}
         }
       ]
     }
